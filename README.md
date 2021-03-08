@@ -15,6 +15,9 @@ that I attended at a bank when I was in high school really caught my attention w
 technology has transformed banking operations behind the scenes. Overall, this project will be a first step
 in trying to create that connection on my own.
 
+## How to Run
+
+Run the main.java file. Simple!
 
 ## User Stories
 
